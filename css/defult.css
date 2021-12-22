@@ -146,7 +146,17 @@ h1 img{
 }
 
 
-        /* footer */
+/* line style */
+.line .contents{
+    height: 2px;
+    background-color: #ba000c;
+    text-indent: -999999px;
+}
+
+
+
+
+/* footer */
         .footer{
             background-color: #ba000c;
         }
